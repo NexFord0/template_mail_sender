@@ -1,0 +1,16 @@
+{
+  "name": "template_mail_sender",
+  "version": "1.0.0",
+  "description": "Code template to send email with nodemailer.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "NexFord",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "nodemailer": "^6.9.7"
+  }
+}
